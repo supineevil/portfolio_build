@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5bba0b1.css",
+    "main.js": "/static/js/main.46b45ece.js",
+    "static/js/787.79c02c71.chunk.js": "/static/js/787.79c02c71.chunk.js",
+    "static/media/Portfolio.PNG": "/static/media/Portfolio.f432f859ce06e48ada87.PNG",
+    "static/media/Raunak_resume_v.1.2.pdf": "/static/media/Raunak_resume_v.1.2.6fe423172c2bf634e979.pdf",
+    "static/media/avatar.jpeg": "/static/media/avatar.20bd526be999a3e36925.jpeg",
+    "static/media/Temp.PNG": "/static/media/Temp.845f4f2bb0b3bc613779.PNG",
+    "static/media/CaseChanger.PNG": "/static/media/CaseChanger.93ad16f168ab64602693.PNG",
+    "index.html": "/index.html",
+    "main.f5bba0b1.css.map": "/static/css/main.f5bba0b1.css.map",
+    "main.46b45ece.js.map": "/static/js/main.46b45ece.js.map",
+    "787.79c02c71.chunk.js.map": "/static/js/787.79c02c71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5bba0b1.css",
+    "static/js/main.46b45ece.js"
+  ]
+}
